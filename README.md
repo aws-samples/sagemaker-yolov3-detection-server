@@ -1,11 +1,6 @@
-## My Project
+## YoloV3 GPU Server with Gluoncv and SageMaker
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+This tutorial shows how to use a pre-trained detector from GluonCV model zoo and deploy it to GPU with Amazon SageMaker
 
 ## License
 
